@@ -1,0 +1,13 @@
+div {
+    background-color: rgb(255, 255, 255);
+    width: 300px;
+    border: 15px solid rgb(97, 156, 136);
+    padding: 50px;
+    margin: auto;
+    text-align: center;
+    background-color: rgb(185, 197, 209);
+  }
+
+body {
+    background-color: lightslategray;
+}
